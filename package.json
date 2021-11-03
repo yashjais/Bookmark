@@ -13,6 +13,6 @@
     "mongoose": "^5.8.10",
     "short-hash": "^1.0.0",
     "shorthash": "0.0.2",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   }
 }
